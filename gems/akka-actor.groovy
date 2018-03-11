@@ -1,3 +1,5 @@
+@Grab(group='com.typesafe.akka', module='akka-actor_2.12', version='2.5.11')
+
 import akka.actor.ActorRef
 import akka.actor.ActorSystem
 import akka.actor.Props
